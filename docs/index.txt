@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Lona en blanco </title>
+
+<link rel="stylesheet" href="styles.css">
+
+
+</head>
+
+
+
+
+<body>
+
+
+
+   <ul>
+       <a href="#index">&#9829Home</a>&emsp;
+       <a href="#video">&#9829Video</a>&emsp;
+       <a href="#music">&#9829Music</a>&emsp;
+       <a href="#gallery">&#9829Gallery</a>&emsp;
+       <a href="#code">&#9829Code</a>
+
+   </ul> 
+
+
+
+
+
+
+
+<div id="page1">
+  <a id="index"></a>
+
+       <div class="parallax"></div>
+
+        <div id="heading"> 
+
+         <div class= "animation"><h1><font color="black"><font face="Edwardian Script ITC">  Welcome to </font></font>
+         <font face="Edwardian Script ITC"> Lona en blanco </font></h1>
+         </div>
+        </div>
+
+
+           <div id="text1">
+              <p><font color="white">This website represents my personal <font color="black"> online portfolio.</font> 
+                  It showcases a few of my basic abilities and skills in regars to Web design, 
+                  Video production, Music and Photography. You can navigate through the various pages simply by scrolling.</font></p>
+           </div>
+
+</div>
+
+ 
+
+<div id="page2">
+
+
+<h3> Video. </h3>  
+
+<div id= "text2">
+    
+<font color="black">The following page contains a 
+collection of videos of which I have personally created 
+and displayed on the Youtube website.</font>
+
+</div>
+
+
+<a id="video"></a>
+
+
+<iframe width="960" height="615" 
+src="https://www.youtube.com/embed/videoseries?list=PLSqMMSUCJD7saA7sksRTmOkjzSgcjvy9q" frameborder="0" 
+gesture="media" allowfullscreen></iframe>
+
+
+</div>
+
+
+
+<div id="page3">
+
+<h3> Music. </h3>  
+
+<div id= "text2">
+    
+<font color="black">Next up is a few well known songs 
+I have attempted to cover. You may by all means skip this 
+page to spare your ears.</font>
+
+</div>
+
+  <a id="music"></a>
+
+<div class="parallax2"></div>
+
+<div id= "audio1">
+
+<audio controls>
+ <source src="Make-you-feel-my-love-cover-.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+  
+   <div id="text3">
+   <b><font color="white">Make you feel my love (Cover)</font></b>
+   </div>
+
+<div id= "audio2">
+
+<audio controls>
+ <source src="Ave-maria-cover.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+  
+   <div id="text4">
+   <b><font color="white">Ave Maria (Cover)</font></b>
+   </div>
+
+<div id= "audio3">
+
+<audio controls>
+ <source src="When-Im-gone-cover.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+
+   <div id="text5">
+   <b><font color="white">When I'm gone (Cover)</font></b>
+   </div>  
+
+<div id= "audio4">
+
+<audio controls>
+ <source src="Hush-little-baby-cover.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+</div>
+
+   <div id="text6">
+   <b><font color="white">Hush little baby (Cover)</font></b>
+   </div>  
+
+</div>
+
+
+<div id="page4">
+
+<h3> Gallery. </h3>  
+
+<div id= "text2">
+    
+<font color="black">And finally, the best part, The pictures! 
+Below are a range of nature photos taken by yours truly. </font>
+
+</div>
+  <a id="gallery"></a>
+
+<div class="row"> 
+  <div class="column">
+    <img src="rose.png" class="img01"/>
+    <img src="river.jpg">
+    <img src="ducks.jpg">
+    <img src="yellow-flower.jpg">
+    <img src="sunset1.jpg">
+  </div>
+  <div class="column">
+    <img src="sunset.jpg">
+    <img src="roses.jpg">
+    <img src="pink-flowers.png">
+    <img src="water1.jpg">
+    <img src="river.jpg">
+    <img src="sunset.jpg">
+  </div> 
+  <div class="column">
+    <img src="pink-flowers.png">
+    <img src="beach1.jpg">
+    <img src="ducks.jpg">
+    <img src="sunset1.jpg">
+
+  </div>
+
+  </div>
+
+</div>
+
+</div>
+
+
+<div id="page5">
+
+<h3> Code. </h3> 
+
+<div id= "text2">
+    
+<font color="black">These are all the codes that have been used in this website. The codes mostly consist of HTML and CSS </font>
+
+</div>
+ 
+ <a id="code"></a>
+
+<div class="parallax3"></div>
+
+<div id="code1">
+
+<code>
+
+HTML
+
+&lt;DOCTYPE html>
+&lt;html>
+&lt;head>
+&lt;title> Lona en blanco &lt;/title>
+
+&lt;link rel="stylesheet" href="styles.css">
+
+&lt;script>
+
+
+&lt;/script>
+
+
+&lt;/head>
+
+
+
+
+&lt;body>
+
+
+
+   &lt;ul>
+       &lt;a href="#index">&#9829Home&lt;/a>&emsp;
+       &lt;a href="#video">&#9829Video&lt;/a>&emsp;
+       &lt;a href="#music">&#9829Music&lt;/a>&emsp;
+       &lt;a href="#gallery">&#9829Gallery&lt;/a>&emsp;
+       &lt;a href="#code">&#9829Code&lt;/a>
+
+   &lt;/ul> 
+
+
+
+
+
+
+
+&lt;div id="page1">
+  &lt;a id="index"&lt;</a>
+
+       &lt;div class="parallax">&lt;/div>
+
+        &lt;div id="heading"> 
+
+         &lt;div class= "animation">&lt;h1>&lt;font color="black">&lt;font face="Edwardian Script ITC">  Welcome to &lt;/font>&lt;/font>
+         &lt;font face="Edwardian Script ITC"> Lona en blanco &lt;/font>&lt;/h1>
+         &lt;/div>
+        &lt;/div>
+
+
+           &lt;div id="text1">
+              &lt;p>&lt;font color="white">This website represents my personal &lt;font color="black"> online portfolio.&lt;/font> 
+                  It showcases a few of my basic abilities and skills in regars to Web design, 
+                  Video production, Music and Photography. You can navigate through the various pages simply by scrolling.&lt;/font>&lt;/p>
+           &lt;/div>
+
+&lt;/div>
+
+ 
+
+&lt;div id="page2">
+
+
+&lt;h3> Video. &lt;/h3>  
+
+&lt;div id= "text2">
+    
+&lt;font color="black">The following page contains a 
+collection of videos of which I have personally created 
+and displayed on the Youtube website.&lt;/font>
+
+&lt;/div>
+
+
+&lt;a id="video">&lt;/a>
+
+
+&lt;iframe width="960" height="615" 
+src="https://www.youtube.com/embed/videoseries?list=PLSqMMSUCJD7saA7sksRTmOkjzSgcjvy9q" frameborder="0" 
+gesture="media" allowfullscreen>&lt;/iframe>
+
+
+&lt;/div>
+
+
+
+&lt;div id="page3">
+
+&lt;h3> Music. &lt;/h3>  
+
+&lt;div id= "text2">
+    
+&lt;font color="black">Next up is a few well known songs 
+I have attempted to cover. You may by all means skip this 
+page to spare your ears.&lt;/font>
+
+&lt;/div>
+
+  &lt;a id="music">&lt;/a>
+
+&lt;div class="parallax2">&lt;/div>
+
+&lt;div id= "audio1">
+
+&lt;audio controls>
+ &lt;source src="Make-you-feel-my-love-cover-.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+&lt;/audio>
+&lt;/div>
+  
+   &lt;div id="text3">
+   &lt;b>&lt;font color="white">Make you feel my love (Cover)&lt;/font>&lt;/b>
+   &lt;/div>
+
+&lt;div id= "audio2">
+
+&lt;audio controls>
+ &lt;source src="Ave-maria-cover.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+&lt;/audio>
+&lt;/div>
+  
+   &lt;div id="text4">
+   &lt;b>&lt;font color="white">Ave Maria (Cover)&lt;/font>&lt;/b>
+   &lt;/div>
+
+&lt;div id= "audio3">
+
+&lt;audio controls>
+ &lt;source src="When-Im-gone-cover.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+&lt;/audio>
+&lt;/div>
+
+   &lt;div id="text5">
+   &lt;b><font color="white">When I'm gone (Cover)&lt;/font>&lt;/b>
+   &lt;/div>  
+
+&lt;div id= "audio4">
+
+&lt;audio controls>
+ &lt;source src="Hush-little-baby-cover.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+&lt;/audio>
+&lt;/div>
+
+   &lt;div id="text6">
+   &lt;b><font color="white">Hush little baby (Cover)&lt;/font></b>
+   &lt;/div>  
+
+&lt;/div>
+
+
+&lt;div id="page4">
+
+&lt;h3> Gallery. &lt;/h3>  
+
+&lt;div id= "text2">
+    
+&lt;font color="black">And finally, the best part, The pictures! 
+Below are a range of nature photos taken by yours truly. &lt;/font>
+
+&lt;/div>
+  &lt;a id="gallery">&lt;/a>
+
+&lt;div class="row"> 
+  &lt;div class="column">
+    &lt;img src="rose.png" class="img01"/>
+    &lt;img src="river.jpg">
+    &lt;img src="ducks.jpg">
+    &lt;img src="yellow-flower.jpg">
+    &lt;img src="sunset1.jpg">
+  &lt;/div>
+  &lt;div class="column">
+    &lt;img src="sunset.jpg">
+    &lt;img src="roses.jpg">
+    &lt;img src="pink-flowers.png">
+    &lt;img src="water1.jpg">
+    &lt;img src="river.jpg">
+    &lt;img src="sunset.jpg">
+  &lt;/div> 
+  &lt;div class="column">
+    &lt;img src="pink-flowers.png">
+    &lt;img src="beach1.jpg">
+    &lt;img src="ducks.jpg">
+    &lt;img src="sunset1.jpg">
+
+  &lt;/div>
+
+  &lt;/div>
+
+&lt;/div>
+
+&lt;/div>
+
+
+&lt;div id="page5">
+
+&lt;h3> Code. &lt;/h3> 
+
+&lt;div id= "text2">
+    
+&lt;font color="black">These are all the codes that have been used in this website. The codes mostly consist of HTML and CSS </font>
+
+&lt;/div>
+ 
+ &lt;a id="code"></a>
+
+&lt;div class="parallax3">&lt;/div>
+
+&lt;div id="code1">
+
+&lt;code>
+HTML
+&lt;/code>
+
+
+&lt;/div>
+
+&lt;div id="code2">
+
+&lt;code>
+CSS
+&lt;/code>
+&lt;/div>
+
+
+&lt;/div>
+
+
+     &lt;div id= "back2top">
+        &lt;h4>&lt;font color= "white">created by Vida.&lt;/font>&lt;/h4>
+        &lt;a href="index.html">&lt;h2><font color="white"> Back to Top &#9829; &lt;/font>&lt;/h2>&lt;/a>
+        &lt;a href="https://vidasite.github.io/ ">&lt;i>&lt;font color="white"> Earlier Websites &lt;/font>&lt;/i>&lt;/a>
+     &lt;/div>
+
+
+
+
+
+&lt;/body>
+
+&lt;/html>
+
+
+
+</code>
+
+
+</div>
+
+<div id="code2">
+
+<code>
+CSS
+body {
+    background-color: #000000;
+    color: white;
+  
+    
+}
+
+
+
+
+.parallax { 
+    background-image: url("rose.png");
+    background-size: 100% 700px;
+    background-repeat: no-repeat;
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    
+    
+    
+}
+
+#heading {
+  
+   top: 145px;
+   left: 200px;
+   font-size: 50px;
+   position: absolute; 
+   
+   
+}
+
+
+.animation {
+  display: inline-block;
+  overflow:hidden;
+  white-space:nowrap;
+}
+
+.animation {   
+                      
+  animation: showup 10s ;
+}
+
+
+
+
+@keyframes showup {
+    50% {opacity:0;}
+    100% {opacity:1;}
+}
+
+
+
+
+    
+#text1 { 
+        position: absolute; 
+        top: 480px;
+        left: 800px;
+        font-size: 22px;
+        z-index: 1;
+
+}
+
+#page1 {
+        position: relative;
+
+}
+
+a { font-family: "Arial";
+    
+}
+
+
+a:hover { 
+  color: #cc0000;
+}
+
+a { 
+  text-decoration: none;
+  color: white;
+  font-size: 19px;
+}
+
+
+ul {
+   position: fixed;
+   top: 0;
+   width: 100%;
+   z-index: 3;
+}
+
+
+ul {
+  background-color: #000000;
+  height: 27px;
+  margin-top: 0px;
+  margin-left: -8px;
+  box-shadow: -2px 10px 22px #000000;
+  
+
+}
+
+li {
+   display: inline;
+}
+
+
+h1 {
+   font-size: 100px;
+   z-index: -1;
+   
+}
+
+h2 {
+   text-align: center;
+   font-size: 19px;
+   
+}
+
+
+#text2 { 
+        position: absolute; 
+        margin-top: -100px;
+        margin-left: 300px;
+        font-size: 18px;
+        z-index: 1;
+        text-align: center;
+        
+}
+
+iframe {
+        position: absolute; 
+        margin-top: 5px; 
+        margin-left: 180px; 
+        z-index: 1;
+
+}
+
+
+h3 {
+    text-align: center;
+    color: #000000;
+    font-family:"Edwardian Script ITC";
+    font-size: 100px;
+    margin-top: -10px;
+    text-shadow: 2px 2px 2px #696969;
+}
+  
+#page2 {
+        height: 220px;
+        background-color: white;
+        
+        
+
+}
+
+#page3 {
+        height: 220px;
+        background-color: white;
+        margin-top: 700px;
+        z-index: 1;
+       
+        
+}
+
+
+.parallax2 { 
+    background-image: url("roses.jpg");
+    background-size: 100% 650px;
+    background-repeat: no-repeat;
+    min-height: 650px;
+    background-attachment: fixed;
+    background-position: center;
+    
+    
+    
+}
+
+#audio1 {
+        z-index: 2;
+        position: absolute;
+        margin-top: -500px;
+        margin-left: 500px;
+
+}
+
+
+#text3 {
+        z-index: 2;
+        position: absolute;
+        margin-top: -470px;
+        margin-left: 500px;
+        width: 500px;
+        font-size: 20px;
+        text-shadow: 2px 2px 4px black;
+   
+
+
+}
+
+#audio2 {
+        z-index: 2;
+        position: absolute;
+        margin-top: -400px;
+        margin-left: 500px;
+        
+
+}
+
+
+#text4 {
+        z-index: 2;
+        position: absolute;
+        margin-top: -370px;
+        margin-left: 500px;
+        width: 500px;
+        font-size: 20px;
+        text-shadow: 2px 2px 4px black;
+   
+
+
+}
+
+#audio3 {
+        z-index: 2;
+        position: absolute;
+        margin-top: -300px;
+        margin-left: 500px;
+
+}
+
+
+#text5 {
+        z-index: 2;
+        position: absolute;
+        margin-top: -270px;
+        margin-left: 500px;
+        width: 500px;
+        font-size: 20px;
+        text-shadow: 2px 2px 4px black;
+   
+
+
+}
+
+#audio4 {
+        z-index: 2;
+        position: absolute;
+        margin-top: -200px;
+        margin-left: 500px;
+
+}
+
+
+#text6 {
+        z-index: 2;
+        position: absolute;
+        margin-top: -170px;
+        margin-left: 500px;
+        width: 500px;
+        font-size: 20px;
+        text-shadow: 2px 2px 4px black;
+   
+
+
+}
+
+#page4 {
+
+        height: 220px;
+        background-color: white;
+        width: 1339px;
+        top: 2400px;
+        z-index: 1; 
+        position: absolute;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    
+    
+}
+
+.column img {
+    margin-top: 1px;
+    width: 100%;
+    height: 200px;
+    
+    
+    
+}
+
+.row {
+      margin-left: 1px;
+      position: absolute;
+     
+}
+
+img {
+     border-radius: 15px;
+
+}
+
+img:hover {
+    -webkit-transform: scale(1.5);
+    -moz-transform: scale(1.5);
+    -o-transform: scale(1.5);
+    transform: scale(1.5);
+    z-index: 1;
+}
+
+img {
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition: all 0.5s ease-out;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+
+}
+
+
+
+#page5 {
+
+        height: 220px;
+        background-color: white;
+        margin-top: 1500px;
+        z-index: 1; 
+        width: 1339px;
+        position: relative;
+        
+      
+
+}
+ .parallax3 { 
+    background-image: url("rose.png");
+    background-size: 100% 700px;
+    background-repeat: no-repeat;
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    
+    
+}
+
+#code1 {
+   width: 500px;
+   height: 600px;
+   overflow: scroll;
+   font-size: 14px;
+   background-color: black;
+   margin-top: -650px;;
+   margin-left: 100px;
+   position: absolute;
+   color: white;
+
+
+}
+
+#code2 {
+   width: 500px;
+   height: 600px;
+   overflow: scroll;
+   font-size: 14px;
+   background-color: black;
+   margin-top: -650px;;
+   margin-left: 700px;
+   position: absolute;
+   color: white;
+
+
+}
+
+h4 {
+    text-align: center;
+    color: white;
+    font-family:"Edwardian Script ITC";
+    font-size: 200px;
+    margin-top: 800px;
+    
+}
+
+
+i {
+   font-size: 13px;
+   margin-top: -60px;
+   text-align: center;
+   position: absolute;
+   margin-left: 610px;
+
+}
+
+
+
+
+/* Turn off parallax scrolling for tablets and phones. Increase/decrease the pixels if needed */
+@media only screen and (max-device-width: 1024px) {
+    .parallax {
+        background-attachment: scroll;
+    }
+} 
+
+@media only screen and (max-device-width: 1024px) {
+    .parallax2 {
+        background-attachment: scroll;
+    }
+}
+
+@media only screen and (max-device-width: 1024px) {
+    .parallax3 {
+        background-attachment: scroll;
+    }
+}    
+
+</code>
+</div>
+
+
+</div>
+
+
+     <div id= "back2top">
+        <h4><font color= "white">created by Vida.</font></h4>
+        <a href="index.html"><h2><font color="white"> Back to Top &#9829; </font></h2></a>
+        <a href="https://vidasite.github.io/ "><i><font color="white"> Earlier Websites </font></i></a>
+     </div>
+
+
+
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
