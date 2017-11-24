@@ -395,39 +395,36 @@ i {
 
 
 /* Turn off parallax scrolling for tablets and phones. Increase/decrease the pixels if needed */
-
-@media only screen and (max-device-width: 400px) {
-
+@media only screen and (max-device-width: 1024px) {
 .parallax {
-
-        background-attachment: scroll;
-
+        background-image: url("rose.png");
+        background-size: 100% 700px;
+        background-repeat: no-repeat;
+        min-height: 700px;
+        background-attachment: scroll;
+        background-position: center;
+        
     }
-
 } 
 
-
-
-@media only screen and (max-device-width: 400px) {
-
+@media only screen and (max-device-width: 1024px) {
 .parallax2 {
-
-        background-attachment: scroll;
-
+        background-image: url("roses.jpg");
+        background-size: 100% 650px;
+        background-repeat: no-repeat;
+        min-height: 650px;
+        background-attachment: scroll;
+        background-position: center;
     }
-
 }
 
-
-
-@media only screen and (max-device-width: 400px) {
-
+@media only screen and (max-device-width: 1024px) {
 .parallax3 {
-
-        background-attachment: scroll;
-
+        background-image: url("rose.png");
+        background-size: 100% 700px;
+        background-repeat: no-repeat;
+        min-height: 700px;
+        background-attachment: scroll;
+        background-position: center;
     }
-
-} 
-
-   
+}
