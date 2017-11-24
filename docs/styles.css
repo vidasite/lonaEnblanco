@@ -396,7 +396,7 @@ i {
 
 /* Turn off parallax scrolling for tablets and phones. Increase/decrease the pixels if needed */
 @media only screen and (max-device-width: 1024px) {
-.parallax {
+    .parallax {
         background-image: url("rose.png");
         background-size: 100% 700px;
         background-repeat: no-repeat;
@@ -405,10 +405,22 @@ i {
         background-position: center;
         
     }
+
+#heading {
+  
+   top: 145px;
+   left: 100px;
+   font-size: 30px;
+   position: absolute; 
+   
+   
+}
+
+
 } 
 
 @media only screen and (max-device-width: 1024px) {
-.parallax2 {
+    .parallax2 {
         background-image: url("roses.jpg");
         background-size: 100% 650px;
         background-repeat: no-repeat;
@@ -419,7 +431,7 @@ i {
 }
 
 @media only screen and (max-device-width: 1024px) {
-.parallax3 {
+    .parallax3 {
         background-image: url("rose.png");
         background-size: 100% 700px;
         background-repeat: no-repeat;
@@ -427,4 +439,4 @@ i {
         background-attachment: scroll;
         background-position: center;
     }
-}
+}    
