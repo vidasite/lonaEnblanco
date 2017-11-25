@@ -24,7 +24,6 @@ body {
 
 #heading {
   
-   margin-top: 50px;
    margin-left: 300px;
    position: relative; 
    
@@ -107,6 +106,7 @@ li {
 h1 {
    font-size: 60px;
    z-index: -1;
+   margin-top: 50px;
    
 }
 
