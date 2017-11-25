@@ -51,8 +51,8 @@ body {
     
 #text1 { 
         position: absolute; 
-        margin-top: 200px;
-        margin-left: 500px;
+        margin-top: 460px;
+        margin-left: 400px;
         font-size: 22px;
         z-index: 1;
 
@@ -129,7 +129,7 @@ h2 {
 iframe {
         position: absolute; 
         margin-top: 5px; 
-        margin-left: 180px; 
+        margin-left: 200px; 
         z-index: 1;
 
 }
@@ -364,7 +364,7 @@ img {
    font-size: 14px;
    background-color: black;
    margin-top: -650px;;
-   margin-left: 700px;
+   margin-left: 750px;
    position: absolute;
    color: white;
 
