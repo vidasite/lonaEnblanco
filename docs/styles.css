@@ -23,9 +23,8 @@ body {
 
 #heading {
   
-   top: 145px;
+   top: 300px;
    left: 200px;
-   font-size: 20px;
    position: relative; 
    
    
@@ -110,7 +109,7 @@ li {
 
 
 h1 {
-   font-size: 100px;
+   font-size: 80px;
    z-index: -1;
    
 }
