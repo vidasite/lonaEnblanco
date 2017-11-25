@@ -152,6 +152,7 @@ h3 {
 #page2 {
         height: 220px;
         background-color: white;
+        width: 1339px;
         
         
 
@@ -162,6 +163,7 @@ h3 {
         background-color: white;
         margin-top: 700px;
         z-index: 1;
+        width: 1339px;
        
         
 }
@@ -394,7 +396,7 @@ i {
 }
 
 /* Turn off parallax scrolling for tablets and phones. Increase/decrease the pixels if needed */
-@media only screen and (max-device-width: 1024px) {
+@media only screen and (max-device-width: 640px) {
     .parallax {
         background-image: url("rose.png");
         background-size: 100% 700px;
