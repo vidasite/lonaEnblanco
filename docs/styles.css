@@ -278,7 +278,7 @@ h3 {
         width: 100%;
         top: 2400px;
         z-index: 1; 
-        position: absolute;
+        position: relative;
 
 }
 
@@ -405,6 +405,7 @@ i {
         min-height: 650px;
         background-attachment: scroll;
         background-position: center;
+        z-index: 2;
         
     }
 
