@@ -379,7 +379,7 @@ img {
 h4 {
     text-align: center;
     color: white;
-    font-family: "Edwardian Script";
+    font-family: "Edwardian Script ITC";
     font-size: 200px;
     margin-top: 800px;
     
@@ -396,7 +396,7 @@ i {
 }
 
 /* Turn off parallax scrolling for tablets and phones. Increase/decrease the pixels if needed */
-@media only screen and (max-device-width: 640px) {
+@media only screen and (max-device-width: 1024px) {
     .parallax {
         background-image: url("rose.png");
         background-size: 100% 700px;
