@@ -51,7 +51,7 @@ body {
     
 #text1 { 
         position: relative; 
-        margin-top: 200px;
+        margin-top: 40px;
         margin-left: 400px;
         font-size: 22px;
         z-index: 1;
@@ -106,7 +106,7 @@ li {
 h1 {
    font-size: 60px;
    z-index: -1;
-   margin-top: 20px;
+   margin-top: 5px;
    
    
 }
