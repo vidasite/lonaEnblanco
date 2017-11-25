@@ -20,6 +20,7 @@ body {
     
     
     
+    
 }
 
 #heading {
@@ -51,7 +52,7 @@ body {
     
 #text1 { 
         position: relative; 
-        margin-top: 40px;
+        margin-top: -10px;
         margin-left: 400px;
         font-size: 22px;
         z-index: 1;
@@ -106,7 +107,7 @@ li {
 h1 {
    font-size: 60px;
    z-index: -1;
-   margin-top: 5px;
+   margin-top: -80px;
    
    
 }
@@ -401,6 +402,7 @@ i {
         min-height: 650px;
         background-attachment: scroll;
         background-position: center;
+        z-index: 5;
         
         
     }
