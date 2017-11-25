@@ -400,9 +400,9 @@ i {
 @media only screen and (max-device-width: 1024px) {
     .parallax {
         background-image: url("rose.png");
-        background-size: 100% 700px;
+        background-size: 100% 650px;
         background-repeat: no-repeat;
-        min-height: 700px;
+        min-height: 650px;
         background-attachment: scroll;
         background-position: center;
         
@@ -416,7 +416,7 @@ i {
         background-image: url("roses.jpg");
         background-size: 100% 650px;
         background-repeat: no-repeat;
-        min-height: 700px;
+        min-height: 650px;
         background-attachment: scroll;
         background-position: center;
     }
@@ -425,9 +425,9 @@ i {
 
     .parallax3 {
         background-image: url("rose.png");
-        background-size: 100% 700px;
+        background-size: 100% 650px;
         background-repeat: no-repeat;
-        min-height: 700px;
+        min-height: 650px;
         background-attachment: scroll;
         background-position: center;
     }
