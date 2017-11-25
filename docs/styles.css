@@ -128,7 +128,7 @@ h2 {
 
 iframe {
         position: relative; 
-        margin-top: 5px; 
+        margin-top: 15px; 
         margin-left: 2px; 
         z-index: 1;
 
@@ -364,7 +364,7 @@ img {
    font-size: 14px;
    background-color: black;
    margin-top: -650px;;
-   margin-left: 380px;
+   margin-left: 390px;
    position: absolute;
    color: white;
 
