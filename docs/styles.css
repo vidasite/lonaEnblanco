@@ -152,7 +152,7 @@ h3 {
 #page2 {
         height: 220px;
         background-color: white;
-        width: 1339px;
+        width: 100%;
         
         
 
@@ -163,7 +163,7 @@ h3 {
         background-color: white;
         margin-top: 700px;
         z-index: 1;
-        width: 1339px;
+        width: 100%;
        
         
 }
