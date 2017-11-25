@@ -416,7 +416,7 @@ i {
         background-size: 100% 700px;
         background-repeat: no-repeat;
         min-height: 700px;
-        background-attachment: scroll;
+        background-attachment: local;
         background-position: center;
         
     }
@@ -430,7 +430,7 @@ i {
         background-size: 100% 650px;
         background-repeat: no-repeat;
         min-height: 650px;
-        background-attachment: scroll;
+        background-attachment: local;
         background-position: center;
     }
 }
@@ -441,7 +441,7 @@ i {
         background-size: 100% 700px;
         background-repeat: no-repeat;
         min-height: 700px;
-        background-attachment: scroll;
+        background-attachment: local;
         background-position: center;
     }
 }  
