@@ -274,7 +274,7 @@ h3 {
 
         height: 220px;
         background-color: white;
-        width: 1339px;
+        width: 100%;
         top: 2400px;
         z-index: 1; 
         position: absolute;
@@ -331,7 +331,7 @@ img {
         background-color: white;
         margin-top: 1500px;
         z-index: 1; 
-        width: 1339px;
+        width: 100%;
         position: relative;
         
       
