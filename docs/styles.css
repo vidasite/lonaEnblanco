@@ -416,7 +416,7 @@ i {
         background-image: url("roses.jpg");
         background-size: 100% 650px;
         background-repeat: no-repeat;
-        min-height: 650px;
+        min-height: 500px;
         background-attachment: scroll;
         background-position: center;
     }
