@@ -309,10 +309,10 @@ img {
 }
 
 img:hover {
-    -webkit-transform: scale(1.7);
-    -moz-transform: scale(1.7);
-    -o-transform: scale(1.7);
-    transform: scale(1.7);
+    -webkit-transform: scale(1.6);
+    -moz-transform: scale(1.6);
+    -o-transform: scale(1.6);
+    transform: scale(1.6);
     z-index: 1;
 }
 
