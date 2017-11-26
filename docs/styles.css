@@ -161,7 +161,7 @@ h3 {
 #page3 {
         height: 220px;
         background-color: white;
-        margin-top: 800px;
+        margin-top: 790px;
         z-index: 1;
         width: 100%;
         position: absolute;
@@ -276,7 +276,7 @@ h3 {
         height: 220px;
         background-color: white;
         width: 100%;
-        margin-top: 1600px;
+        margin-top: 1590px;
         z-index: 1; 
         position: absolute;
 
@@ -330,7 +330,7 @@ img {
 
         height: 220px;
         background-color: white;
-        margin-top: 2400px;
+        margin-top: 2390px;
         z-index: 1; 
         width: 100%;
         position: absolute;
