@@ -162,9 +162,9 @@ h3 {
 }
 
 #page3 {
-        height: 220px;
+        height: 250px;
         background-color: white;
-        margin-top: 750px;
+        margin-top: 700px;
         z-index: 1;
        
         
@@ -328,7 +328,7 @@ img {
 
 #page5 {
 
-        height: 220px;
+        height: 250px;
         background-color: white;
         margin-top: 1500px;
         z-index: 1; 
