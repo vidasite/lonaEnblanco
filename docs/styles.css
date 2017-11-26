@@ -55,7 +55,7 @@ body {
         position: absolute; 
         margin-top: -150px;
         margin-left: 380px;
-        font-size: 22px;
+        font-size: 25px;
         z-index: 1;
 
 }
@@ -74,7 +74,7 @@ a:hover {
 a { 
   text-decoration: none;
   color: white;
-  font-size: 30px;
+  font-size: 35px;
 }
 
 
