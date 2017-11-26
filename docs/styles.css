@@ -145,10 +145,11 @@ iframe {
 h3 {
     text-align: center;
     color: #000000;
-    font-family: "Brush Script MT";
+    font-family: "Brush Script MT", cursive;
     font-size: 100px;
     margin-top: -10px;
     text-shadow: 2px 2px 8px #696969;
+    font-style: normal;
 }
   
 #page2 {
