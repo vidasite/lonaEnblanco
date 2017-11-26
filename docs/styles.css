@@ -12,7 +12,7 @@ body {
 
 .parallax { 
     background-image: url("rose.png");
-    background-size: 100% 700px;
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     min-height: 700px;
     background-attachment: scroll;
