@@ -277,7 +277,7 @@ h3 {
         height: 220px;
         background-color: white;
         width: 100%;
-        top: 2400px;
+        margin-top: 2100px;
         z-index: 1; 
         position: absolute;
 
