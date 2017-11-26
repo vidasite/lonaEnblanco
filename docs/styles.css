@@ -2,7 +2,7 @@
 body {
     background-color: #000000;
     color: white;
-    height: 4100px;
+    height: 4000px;
   
     
 }
@@ -114,7 +114,7 @@ h2 {
    text-align: center;
    font-size: 19px;
    position: absolute;
-   margin-top: 4100px;
+   margin-top: 4000px;
    margin-left: 430px;
    
 }
@@ -390,7 +390,7 @@ h4 {
 
 i {
    font-size: 13px;
-   margin-top: 4090px;
+   margin-top: 3980px;
    text-align: center;
    position: absolute;
    margin-left: 430px;
