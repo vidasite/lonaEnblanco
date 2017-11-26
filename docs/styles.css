@@ -53,7 +53,7 @@ body {
     
 #text1 { 
         position: absolute; 
-        margin-top: -205px;
+        margin-top: -210px;
         margin-left: 380px;
         font-size: 25px;
         z-index: 1;
@@ -152,7 +152,7 @@ h3 {
         background-color: white;
         width: 100%;
         position: absolute;
-        margin-top: 1000px;
+        margin-top: 900px;
         
         
 
