@@ -186,7 +186,7 @@ h3 {
 #audio1 {
         z-index: 2;
         position: absolute;
-        margin-top: -500px;
+        margin-top: -490px;
         margin-left: 500px;
 
 }
@@ -195,7 +195,7 @@ h3 {
 #text3 {
         z-index: 2;
         position: absolute;
-        margin-top: -470px;
+        margin-top: -460px;
         margin-left: 500px;
         width: 500px;
         font-size: 20px;
@@ -208,7 +208,7 @@ h3 {
 #audio2 {
         z-index: 2;
         position: absolute;
-        margin-top: -400px;
+        margin-top: -390px;
         margin-left: 500px;
         
 
@@ -218,7 +218,7 @@ h3 {
 #text4 {
         z-index: 2;
         position: absolute;
-        margin-top: -370px;
+        margin-top: -360px;
         margin-left: 500px;
         width: 500px;
         font-size: 20px;
@@ -231,7 +231,7 @@ h3 {
 #audio3 {
         z-index: 2;
         position: absolute;
-        margin-top: -300px;
+        margin-top: -290px;
         margin-left: 500px;
 
 }
@@ -240,7 +240,7 @@ h3 {
 #text5 {
         z-index: 2;
         position: absolute;
-        margin-top: -270px;
+        margin-top: -260px;
         margin-left: 500px;
         width: 500px;
         font-size: 20px;
@@ -253,7 +253,7 @@ h3 {
 #audio4 {
         z-index: 2;
         position: absolute;
-        margin-top: -200px;
+        margin-top: -190px;
         margin-left: 500px;
 
 }
@@ -262,7 +262,7 @@ h3 {
 #text6 {
         z-index: 2;
         position: absolute;
-        margin-top: -170px;
+        margin-top: -160px;
         margin-left: 500px;
         width: 500px;
         font-size: 20px;
@@ -340,9 +340,9 @@ img {
 }
  .parallax3 { 
     background-image: url("rose.png");
-    background-size: 100% 700px;
+    background-size: 100% 750px;
     background-repeat: no-repeat;
-    min-height: 700px;
+    min-height: 750px;
     background-attachment: fixed;
     background-position: center;
     
