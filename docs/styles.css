@@ -173,9 +173,9 @@ h3 {
 
 .parallax2 { 
     background-image: url("roses.jpg");
-    background-size: 100% 800px;
+    background-size: 100% 770px;
     background-repeat: no-repeat;
-    min-height: 800px;
+    min-height: 770px;
     background-attachment: fixed;
     background-position: center;
     
