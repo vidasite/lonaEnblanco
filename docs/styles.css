@@ -14,7 +14,7 @@ body {
     background-size: 100% 700px;
     background-repeat: no-repeat;
     min-height: 700px;
-    background-attachment: local;
+    background-attachment: fixed;
     background-position: center;
     
     
@@ -176,7 +176,7 @@ h3 {
     background-size: 100% 650px;
     background-repeat: no-repeat;
     min-height: 650px;
-    background-attachment: local;
+    background-attachment: fixed;
     background-position: center;
     
     
@@ -344,7 +344,7 @@ img {
     background-size: 100% 700px;
     background-repeat: no-repeat;
     min-height: 700px;
-    background-attachment: local;
+    background-attachment: fixed;
     background-position: center;
     
     
