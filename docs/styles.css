@@ -106,6 +106,7 @@ h1 {
    z-index: 1;
    margin-top: -400px;
    position: absolute;
+   font-family: "Comic Sans MS", cursive, sans-serif;
    
    
 }
@@ -381,7 +382,7 @@ img {
 h4 {
     text-align: center;
     color: white;
-    font-family: "Edwardian Script ITC";
+    font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 200px;
     margin-top: 3400px;
     position: absolute;
