@@ -14,7 +14,7 @@ body {
     background-size: 100% 700px;
     background-repeat: no-repeat;
     min-height: 700px;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: center;
     
     
@@ -63,6 +63,7 @@ body {
         position: absolute;
         width: 100%;
         margin-top: 0px;
+        height: 500px;
 
 }
 
@@ -176,7 +177,7 @@ h3 {
     background-size: 100% 650px;
     background-repeat: no-repeat;
     min-height: 650px;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: center;
     
     
@@ -344,7 +345,7 @@ img {
     background-size: 100% 700px;
     background-repeat: no-repeat;
     min-height: 700px;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: center;
     
     
