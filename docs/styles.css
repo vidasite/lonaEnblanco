@@ -11,9 +11,9 @@ body {
 
 .parallax { 
     background-image: url("rose.png");
-    background-size: 100% 700px;
+    background-size: 100% 800px;
     background-repeat: no-repeat;
-    min-height: 700px;
+    min-height: 800px;
     background-attachment: fixed;
     background-position: center;
     
@@ -173,9 +173,9 @@ h3 {
 
 .parallax2 { 
     background-image: url("roses.jpg");
-    background-size: 100% 750px;
+    background-size: 100% 800px;
     background-repeat: no-repeat;
-    min-height: 750px;
+    min-height: 800px;
     background-attachment: fixed;
     background-position: center;
     
@@ -340,9 +340,9 @@ img {
 }
  .parallax3 { 
     background-image: url("rose.png");
-    background-size: 100% 770px;
+    background-size: 100% 800px;
     background-repeat: no-repeat;
-    min-height: 770px;
+    min-height: 800px;
     background-attachment: fixed;
     background-position: center;
     
