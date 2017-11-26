@@ -120,7 +120,7 @@ h2 {
 
 
 #text2 { 
-        position: absolute; 
+        position: relative; 
         margin-top: -600px;
         margin-left: 300px;
         font-size: 18px;
