@@ -384,10 +384,11 @@ img {
 h4 {
     text-align: center;
     color: white;
-    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-family: "Brush Script MT", cursive;
     font-size: 200px;
     margin-top: 3400px;
     position: absolute;
+    font-style: normal;
 }
 
 
