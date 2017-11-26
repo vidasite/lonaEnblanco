@@ -280,7 +280,7 @@ h3 {
         width: 100%;
         margin-top: 1600px;
         z-index: 1; 
-        position: relative;
+        position: absolute;
 
 }
 
@@ -335,7 +335,7 @@ img {
         margin-top: 1900px;
         z-index: 1; 
         width: 100%;
-        position: relative;
+        position: absolute;
         
       
 
