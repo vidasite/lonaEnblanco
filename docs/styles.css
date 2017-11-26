@@ -120,9 +120,9 @@ h2 {
 
 
 #text2 { 
-        position: relative; 
+        position: absolute; 
         margin-top: -600px;
-        margin-left: 300px;
+        margin-left: 350px;
         font-size: 18px;
         z-index: 1;
         text-align: center;
