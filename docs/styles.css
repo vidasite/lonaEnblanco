@@ -62,6 +62,7 @@ body {
 #page1 {
         position: absolute;
         width: 100%;
+        margin-top: 0px;
 
 }
 
@@ -152,7 +153,7 @@ h3 {
         background-color: white;
         width: 100%;
         position: relative;
-        margin-top: 1100px;
+        margin-top: 2000px;
         
         
 
@@ -161,7 +162,7 @@ h3 {
 #page3 {
         height: 220px;
         background-color: white;
-        margin-top: 1150px;
+        margin-top: 3100px;
         z-index: 1;
         width: 100%;
         position: relative;
@@ -276,7 +277,7 @@ h3 {
         height: 220px;
         background-color: white;
         width: 100%;
-        margin-top: 1400px;
+        margin-top: 3400px;
         z-index: 1; 
         position: relative;
 
@@ -330,7 +331,7 @@ img {
 
         height: 220px;
         background-color: white;
-        margin-top: 1700px;
+        margin-top: 3700px;
         z-index: 1; 
         width: 100%;
         position: relative;
