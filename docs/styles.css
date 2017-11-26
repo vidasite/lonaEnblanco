@@ -392,8 +392,8 @@ i {
    font-size: 13px;
    margin-top: -60px;
    text-align: center;
-   position: relative;
-   left: 610px;
+   position: absolute;
+   left: 630px;
    position: center;
 
 }
