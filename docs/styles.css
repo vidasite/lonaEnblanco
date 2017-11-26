@@ -460,6 +460,9 @@ i {
   
 
    margin-left: 90px;
+   z-index: 1;
+  
+    
 
    
 
@@ -613,7 +616,7 @@ h1 {
 
    font-size: 67px;
 
-   z-index: 5;
+   z-index: 1;
 
    margin-top: -400px;
 
