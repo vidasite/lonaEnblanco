@@ -26,7 +26,7 @@ body {
 
 #heading {
   
-   margin-left: 300px;
+   margin-left: 100px;
    
    
    
@@ -53,7 +53,7 @@ body {
     
 #text1 { 
         position: absolute; 
-        margin-top: 90px;
+        margin-top: -50px;
         margin-left: 400px;
         font-size: 22px;
         z-index: 1;
@@ -62,7 +62,6 @@ body {
 
 #page1 {
         width: 100%;
-        margin-top: 0px;
         
 
 }
@@ -109,7 +108,7 @@ li {
 h1 {
    font-size: 60px;
    z-index: -1;
-   margin-top: 2px;
+   margin-top: -70px;
    position: absolute;
    
    
