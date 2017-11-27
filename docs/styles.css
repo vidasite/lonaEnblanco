@@ -24,7 +24,7 @@ body {
 #heading {
   
    top: 145px;
-   left: 120px;
+   left: 100px;
    position: absolute; 
    
    
@@ -56,9 +56,10 @@ body {
 #text1 { 
         position: absolute; 
         top: 480px;
-        left: 800px;
+        left: 600px;
         font-size: 22px;
         z-index: 1;
+        text-shadow: #696969;
 
 }
 
