@@ -996,20 +996,10 @@ h3 {
 
     
 
-    width: 50%;
+    width: 30%;
 
     position: absolute;
     
-    display: table;
-    
-    float: left;
-    
-    overflow: auto;
-    
-    padding: 10px;
-
-    
-
     
 
 }
