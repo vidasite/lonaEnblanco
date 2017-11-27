@@ -409,18 +409,6 @@ h4 {
 }
 
 
-i {
-   font-size: 13px;
-   margin-top: -60px;
-   margin-left: 730px;
-   position: absolute;
-   text-align: center;
-   
-   
-   
-
-}
-
 
 
 
@@ -1082,7 +1070,7 @@ img {
 
         background-color: white;
 
-        margin-top: 3910px;
+        margin-top: 3950px;
 
         z-index: 1; 
 
@@ -1162,7 +1150,7 @@ img {
 
    margin-top: -650px;;
 
-   margin-left: 470px;
+   margin-left: 450px;
 
    position: absolute;
 
@@ -1195,24 +1183,6 @@ h4 {
 }
 
 
-
-
-
-i {
-
-   font-size: 15px;
-
-   margin-top: 3980px;
-
-   text-align: center;
-
-   position: absolute;
-
-   margin-left: 440px;
-
-
-
-}
 
 }    
 
