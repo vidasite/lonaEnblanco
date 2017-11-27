@@ -999,6 +999,10 @@ h3 {
     width: 50%;
 
     position: absolute;
+    
+    display: table;
+    
+    float: left;
 
     
 
