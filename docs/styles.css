@@ -1003,6 +1003,10 @@ h3 {
     display: table;
     
     float: left;
+    
+    overflow: auto;
+    
+    padding: 10px;
 
     
 
