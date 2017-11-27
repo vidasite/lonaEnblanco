@@ -1110,7 +1110,7 @@ img {
 
 #code1 {
 
-   width: 400px;
+   width: 300px;
 
    height: 600px;
 
@@ -1138,7 +1138,7 @@ img {
 
 #code2 {
 
-   width: 400px;
+   width: 300px;
 
    height: 600px;
 
@@ -1195,6 +1195,18 @@ h4 {
     }
     
 
+}
+    
+@media (max-width: 600px) {
+    
+    .column {
+        
+        width: 25%;
+        
+    }
+    
+    
+    
 }
     
 
