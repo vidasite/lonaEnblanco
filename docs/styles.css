@@ -137,7 +137,7 @@ h2 {
 iframe {
         position: absolute; 
         margin-top: 5px; 
-        margin-left: 180px; 
+        margin-left: 120px; 
         z-index: 1;
 
 }
@@ -156,6 +156,7 @@ h3 {
 #page2 {
         height: 220px;
         background-color: white;
+        width: 100%;
         
         
 
@@ -166,6 +167,7 @@ h3 {
         background-color: white;
         margin-top: 700px;
         z-index: 1;
+        width: 100%;
        
         
 }
@@ -375,7 +377,7 @@ img {
    font-size: 14px;
    background-color: black;
    margin-top: -650px;;
-   margin-left: 100px;
+   margin-left: 90px;
    position: absolute;
    color: white;
 
@@ -389,7 +391,7 @@ img {
    font-size: 14px;
    background-color: black;
    margin-top: -650px;;
-   margin-left: 700px;
+   margin-left: 600px;
    position: absolute;
    color: white;
 
