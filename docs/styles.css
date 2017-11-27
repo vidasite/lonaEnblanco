@@ -478,7 +478,8 @@ i {
 
                       
 
-  animation: showup 15s ;
+  animation: showup 15s;
+  display: inline-block;
 
 }
 
@@ -622,7 +623,7 @@ h1 {
 
    font-style: normal;
    
-   display: inline;
+   
 
    
 
