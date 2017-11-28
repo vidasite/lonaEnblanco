@@ -110,7 +110,7 @@ li {
 h1 {
    font-size: 80px;
    z-index: -1;
-   font-family: "Brush Script MT", cursive;
+   font-family: "Georgia";
    font-style: normal;
    
 }
@@ -146,7 +146,7 @@ iframe {
 h3 {
     text-align: center;
     color: #000000;
-    font-family:"Brush Script MT", cursive;
+    font-family:"Georgia";
     font-size: 100px;
     margin-top: -10px;
     text-shadow: 2px 2px 2px #696969;
@@ -401,7 +401,7 @@ img {
 h4 {
     text-align: center;
     color: white;
-    font-family:"Brush Script MT", cursive;
+    font-family:"Georgia";
     font-size: 200px;
     margin-top: 800px;
     font-style: normal;
@@ -634,7 +634,7 @@ h1 {
 
    position: absolute;
 
-   font-family: "Brush Script MT", cursive;
+   font-family: "Georgia";
 
    font-style: normal;
    
@@ -714,7 +714,7 @@ h3 {
 
     color: #000000;
 
-    font-family: "Brush Script MT", cursive;
+    font-family: "Georgia";
 
     font-size: 100px;
 
@@ -1170,7 +1170,7 @@ h4 {
 
     color: white;
 
-    font-family: "Brush Script MT", cursive;
+    font-family: "Georgia";
 
     font-size: 200px;
 
